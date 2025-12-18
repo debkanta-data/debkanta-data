@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 Data Analyst skilled in **SQL, Python, and Tableau**, focused on transforming raw data into meaningful business insights.
 
-I enjoy working on real-world datasets, building clean data models, and creating dashboards that support data-driven decisions.
+I work with real-world datasets, build clean data models, and create dashboards that support data-driven decision-making.
 
 ---
 
@@ -15,7 +15,7 @@ I enjoy working on real-world datasets, building clean data models, and creating
 
 ---
 
-## 📊 Featured Project 
+## 📊 Featured Project
 **E-commerce Customer Analytics (Olist Dataset)**  
 - End-to-end data analysis using SQL, Python & Tableau  
 - Customer segmentation using RFM analysis  
@@ -29,5 +29,5 @@ I enjoy working on real-world datasets, building clean data models, and creating
 
 ---
 
-📫 **Connect with me**  
-- LinkedIn: *(will be added)*  
+## 📫 Connect with Me
+- LinkedIn: *(will be added)*
