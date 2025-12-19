@@ -30,4 +30,4 @@ I work with real-world datasets, build clean data models, and create dashboards 
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](www.linkedin.com/in/debkanta-data)
+- [LinkedIn](https://www.linkedin.com/in/debkanta-data/)
