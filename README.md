@@ -2,7 +2,7 @@
 
 ## 🚀 Value Proposition
 
-> Data Analyst focused on **Revenue Optimization** and **Process Automation**. I don't just visualize data; I build reproducible SQL/Python pipelines to uncover trends that drive business growth.
+ Data Analyst focused on **Revenue Optimization** and **Process Automation**. I don't just visualize data; I build reproducible SQL/Python pipelines to uncover trends that drive business growth.
 
 ---
 
