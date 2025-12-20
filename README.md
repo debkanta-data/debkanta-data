@@ -20,7 +20,7 @@
 
 > - **The Solution:** Engineered an automated **Python ETL** pipeline to clean and normalize data into a MySQL Star Schema. Offloaded heavy **profitability calculations** to SQL Views for performance and applied **RFM Segmentation** via Python to **categorize users**.
 
-> - **The Impact:** Successfully processed **99,000+ orders**.Identified the **Top customers**,enabling high-ROI marketing targeting.
+> - **The Impact:** Successfully processed **99,000+ orders**.Identified the **Top customers**, enabling high-ROI marketing targeting.
  
 > - **Tech Used:** Python (Pandas/NumPy), SQL (CTEs for modeling, Views for calculation), Tableau(KPI Dashboard). 
 
