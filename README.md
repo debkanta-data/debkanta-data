@@ -28,8 +28,8 @@
 ---
 
 ## 🎯 Current Focus
-Building industry-ready analytics projects
-Strengthening Python-driven business analysis 
+- Building industry-ready analytics projects
+- Strengthening Python-driven business analysis 
 
 ---
 
